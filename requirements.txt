@@ -1,0 +1,4 @@
+nltk==3.8.1
+deep-translator==1.11.4
+transformers==4.46.3
+torch==2.2.2
